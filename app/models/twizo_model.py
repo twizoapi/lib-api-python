@@ -1,0 +1,2 @@
+class TwizoModel:
+    pass

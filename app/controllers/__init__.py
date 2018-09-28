@@ -1,0 +1,12 @@
+from controllers.twizo_controller import TwizoController
+
+from controllers.number_lookup_controller import NumberLookupController
+from controllers.verification_controller import VerificationController
+from controllers.application_controller import ApplicationController
+from controllers.balance_controller import BalanceController
+from controllers.sms_controller import SmsController
+from controllers.widget_session_controller import WidgetSessionController
+from controllers.widget_register_session_controller import WidgetRegisterSessionController
+from controllers.backup_code_controller import BackupCodeController
+from controllers.totp_controller import TotpController
+from controllers.bio_voice_controller import BioVoiceController
